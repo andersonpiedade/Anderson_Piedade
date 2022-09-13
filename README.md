@@ -21,7 +21,7 @@
 <br>
 
 <div> 
-  <a [href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q"](https://free.facebook.com/l.php?u=https%3A%2F%2Fm.youtube.com%2Fchannel%2FUCyZbFMuCs-gyCun2tL22COQ%2Ffeatured%3Ffbclid%3DIwAR3PqZyT3wKhuo69-ZiZEms99RXGfboVB4lDE4SHwWbWDJNotYBJZH6onz4&h=AT0wj2j08lctHtEaQ1eMKSLL1MZo_fmfY29Xw7YiJoriinKR2YMZTUsnw6C4iC-d3ujrrblYBbRpztMiniqr3S-bpUGgxBn8LihDAvDn1tohvgEjyPFvW71UIYPb8vC8cRxD2oABBd8Ezw) target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/andersonpiedade_04" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andrealfredo04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/anderson-piedade-036135231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
