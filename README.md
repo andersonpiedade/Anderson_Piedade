@@ -1,6 +1,6 @@
-### <h1>Olá👋!!! eu sou o Anderson Piedade</h1> 
-
--  👨🏾‍💻🧿I'm developer 👨🏾‍💻🧿
+### <h1>About me</h1> 
+### <h3>My name is Anderson Piedade</h3>
+-  👨🏾‍💻🧿I'm web developer 👨🏾‍💻🧿
 -  🧿Front-end/back-end🧿
 -  I like to work in a team sharing experiences
 
