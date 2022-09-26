@@ -26,6 +26,5 @@
 </div>
 
 <br>
-<br>
 
 🚀 let's rock the future!
