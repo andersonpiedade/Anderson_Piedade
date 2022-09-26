@@ -1,10 +1,8 @@
 ### <h1>Olá👋!!! eu sou o Anderson Piedade</h1> 
 
-- 🔭 I'm developer 👨🏾‍💻🧿
-- 👯 Gosto de trabalhar em equipe ajundando-se uns aos outros para obter mais conhecimentos...
-- 💬 Ingles nível básico...
-- 📫 Fácil de aprender ...
-- ⚡ Focado em seus objectivos...
+-  👨🏾‍💻🧿I'm developer 👨🏾‍💻🧿
+-  🧿Front-end/back-end🧿
+-  I like to work in a team sharing experiences
 
 <div align="center">
   <a href="https://github.com/anderson004">
