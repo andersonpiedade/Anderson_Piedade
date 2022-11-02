@@ -1,7 +1,6 @@
 ### <h1>About me</h1> 
 ### <h3>My name is Anderson Piedade</h3>
--  👨🏾‍💻🧿I'm web developer 👨🏾‍💻🧿
--  🧿Front-end/back-end🧿
+-     🧿NODE.JS DEVELOPER🧿
 -  I like to work in a team sharing experiences
 
 <div align="center">
