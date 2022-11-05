@@ -1,6 +1,6 @@
 ### <h1>About me</h1> 
 ### <h3>My name is Anderson Piedade</h3>
--     🧿NODE.JS DEVELOPER🧿
+-     NODE.JS DEVELOPER
 -  I like to work in a team sharing experiences
 
 <div align="center">
