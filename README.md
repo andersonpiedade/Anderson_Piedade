@@ -14,7 +14,7 @@
  <img align="rigth" alt="Rafa-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <!--Testting-->  
     
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+            <img  align="rigth" alt="Rafa-CSS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
           
   <!--Testing-->
    <img align="rigth" alt="Rafa-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
