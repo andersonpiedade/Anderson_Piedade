@@ -12,7 +12,7 @@
 
 <div><!--Icones das linguagens-->
 
-    <img align="rigth" alt="andersonpiedade-node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+     <img align="rigth" alt="andersonpiedade-node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="rigth" alt="andersonpiedade-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img align="rigth" alt="andersonpiedade-npm" height="50" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
               
