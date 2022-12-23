@@ -18,7 +18,7 @@
              <img align="rigth" alt="andersonpiedade-node" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
                  
   <!-- <img  align="rigth" alt="andersonpiedade-tp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
-           <!-- <img  align="rigth" alt="andersonpiedade-tp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />-->
+ 
           
           
           
